@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alert>
+<Notes>
+<Category>Administrative</Category>
+<Subcategory>Account Receivable</Subcategory>
+<Template>Denied Non-Dup of Benefits</Template>
+</Notes>
+<PatientAlert>
+   <Type>Other</Type>
+   <Note>Test123</Note>
+</PatientAlert>
+<AccountAlert>
+  <Type>Other</Type>
+ <Note>Test123</Note>
+</AccountAlert>
+<MedicalHistory></MedicalHistory>
+</Alert>

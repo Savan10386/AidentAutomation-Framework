@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<PatientPopUp>
+		<PopUp>
+			<username>2</username>
+			<password>1234567</password>
+			<PState>MD</PState>
+			<PCity>Greenbelt</PCity>
+		</PopUp>
+	</PatientPopUp>

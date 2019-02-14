@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheduler>
+<Appointment>
+  <MenuOption>Scheduler</MenuOption>
+   <Firstname>Zenny</Firstname>
+   <Lastname>lyen</Lastname>
+   <Dob>06/12/1951</Dob>
+   <RefferedGroup>FAMILY/FRIEND REFERRAL</RefferedGroup>
+   <RefferedBy>FRIEND</RefferedBy>
+   <Group>HMO</Group>
+   <Name>ACCESS DMO (ACCESS_DMO)</Name>
+   <InsuranceID>337</InsuranceID>
+   <CellNo>113-698-6935</CellNo>
+   <Preferredconsultant>N/A</Preferredconsultant>
+   <ApptResource>NEW PT EXAM</ApptResource>
+   <ApptType>CONSULT</ApptType>
+   <ApptCategory>Treatment</ApptCategory>
+   <ExpProd>250</ExpProd>
+</Appointment>
+</Scheduler>

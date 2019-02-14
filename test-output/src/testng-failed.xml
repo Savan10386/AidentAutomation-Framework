@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [src]" parallel="classes">
+  <test name="Aident.TestScripts(failed)" parallel="classes">
+    <classes>
+      <class name="Aident.TestScripts.SearchPatient">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Aident.TestScripts.SearchPatient -->
+      <class name="Aident.TestScripts.AddPatient">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- Aident.TestScripts.AddPatient -->
+      <class name="Aident.TestScripts.Login">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="testLogin"/>
+        </methods>
+      </class> <!-- Aident.TestScripts.Login -->
+      <class name="Aident.TestScripts.EditPatient">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Aident.TestScripts.EditPatient -->
+    </classes>
+  </test> <!-- Aident.TestScripts(failed) -->
+</suite> <!-- Failed suite [src] -->
